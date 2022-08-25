@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">How To Use Activity Result API To Parse Information Between 3 Activities- Beginners_Kotlin</string>
+    <string name="get_result">Get result</string>
+    <string name="add_input">Add input</string>
+    <string name="enter_your_name">Enter your name:</string>
+    <string name="enter_num1">Enter first number:</string>
+    <string name="enter_num2">Enter second number</string>
+    <string name="calculate_sum">Calculate Sum</string>
+    <string name="home">Home</string>
+    <string name="see_the_result_of_your_input">Input Result</string>
+    <string name="display_result">Display Result</string>
+</resources>
